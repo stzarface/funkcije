@@ -1,0 +1,2 @@
+# funkcije
+funkcije domaci
